@@ -1,0 +1,23 @@
+{
+    "Waste collection": "Müllabfuhr",
+    "The next bins from your municipality’s waste calendar (iCal address).": "Die nächsten Tonnen aus dem Abfallkalender deiner Gemeinde (iCal-Adresse).",
+    "Address of the waste calendar": "Adresse des Abfallkalenders",
+    "Look ahead": "Vorschau",
+    "One week": "Eine Woche",
+    "Two weeks": "Zwei Wochen",
+    "One month": "Ein Monat",
+    "Only these kinds (comma separated)": "Nur diese Arten (mit Komma getrennt)",
+    "Enter the address of the waste calendar in the tile’s settings.": "Trag die Adresse des Abfallkalenders in den Einstellungen der Kachel ein.",
+    "The waste calendar cannot be reached.": "Der Abfallkalender ist nicht erreichbar.",
+    "No collection in the next day.|No collection in the next :count days.": "Morgen keine Abholung.|In den nächsten :count Tagen keine Abholung.",
+    "Today": "Heute",
+    "Tomorrow – put it out tonight": "Morgen – heute Abend rausstellen",
+    "Reminder the evening before": "Erinnerung am Vorabend",
+    "Off": "Aus",
+    "To the parents": "An die Eltern",
+    "To the whole family": "An die ganze Familie",
+    "Reminder at": "Erinnerung um",
+    "The evening before a collection, for every waste tile whose reminder is switched on.": "Am Vorabend einer Abholung, für jede Müll-Kachel mit eingeschalteter Erinnerung.",
+    "Tomorrow: :bins": "Morgen: :bins",
+    "Put the bin out tonight.|Put the bins out tonight.": "Heute Abend die Tonne rausstellen.|Heute Abend die Tonnen rausstellen."
+}
