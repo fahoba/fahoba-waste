@@ -7,7 +7,7 @@
     "require": {
         "php": "^8.5",
         "sabre/vobject": "^4.6",
-        "fahoba/plugin-api": "^0.1"
+        "fahoba/plugin-api": "^0.2"
     },
     "autoload": {
         "psr-4": {
